@@ -1,0 +1,62 @@
+$primary: rgb(65, 108, 228);
+body{
+    // padding-top: 20px;
+}
+h2{
+    color: $primary;
+}
+#logo{
+    align: center;
+}
+hr{
+    background-color: $primary;
+    border-radius: 5px;
+}
+button{
+    background-color: $primary;
+    color: white;
+    
+}
+input{
+    border-color: $primary;
+    font-weight: bold;
+    
+   
+}
+#divUsername{
+    padding-left: 10%;
+}
+#remembermecheck{
+    padding-left: 15%;
+}
+label{
+// padding-left:10%;
+font-size: 16px;
+font-weight:bold;
+}
+// #password{
+//     // padding-right: 50%;
+// }
+// #subheading{
+//     color: $primary;
+//     font-size: 20px;
+//     font-weight: bold;
+// }
+
+#emailHelp{
+    padding-left: 10%;
+    // text-align: ;
+    color: rgb(160, 65, 65);
+    
+}
+span{
+    
+}
+.ng-untouched {
+    background: rgb(253, 227, 227);
+}
+.container{
+    background-color: rgb(245, 204, 204);
+}
+
+
